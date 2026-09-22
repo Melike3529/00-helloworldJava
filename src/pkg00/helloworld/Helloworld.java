@@ -14,7 +14,10 @@ public class Helloworld {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello World by PV! ");
+        
+        //Exo2 Affichge d'un message
+        System.out.println("Affichage \nligne1 ");
+        System.out.println("Affichage ligne2 ");
     }
     
 }
