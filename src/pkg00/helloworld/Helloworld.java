@@ -58,7 +58,28 @@ public class Helloworld {
         System.out.println("c : (a+b)*2 = " + c);
         */
         
+     //Tp02
      
+     //Exo2 mot de passe
+     
+     Scanner sc = new Scanner (System.in);
+      System.out.println("Entrez une chaine :");
+      String texte = sc.nextLine();
+      String mdp = "admin123";
+      
+      while (texte.equals("mdp"))
+     {
+        System.out.print("Mot de passe : ");
+        texte = sc.nextLine();
+     }
+      
+    
+     { 
+       
+       
+     }
+        
+ 
         
     }
    
